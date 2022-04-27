@@ -1,31 +1,24 @@
-Unchained Action Economy
-- Overlord Shovel Errata/Updates -
+## Unchained Action Economy
+### - Overlord Shovel Errata/Updates -
 
-The default action economy is intricate—full of exceptions, nonactions, and strange actions. This revised action economy streamlines the process of combat encounters. In many ways, it’s a more active system that allows lower-level characters more options in a round while slightly limiting how much higher-level characters can do during their turns.
-In this system, a character can commit up to 3 acts on her turn; these can be committed individually as simple actions, or combined into advanced actions. When it’s not her turn, a character can take a single reaction per round. Iterative attacks have been discarded in this action economy. Instead, any character can make multiple attacks during her turn simply by taking multiple actions to do so.
-Overview
+  The default action economy is intricate—full of exceptions, nonactions, and strange actions. This revised action economy streamlines the process of combat encounters. In many ways, it’s a more active system that allows lower-level characters more options in a round while slightly limiting how much higher-level characters can do during their turns.
+  In this system, a character can commit up to 3 acts on her turn; these can be committed individually as simple actions, or combined into advanced actions. When it’s not her turn, a character can take a single reaction per round. Iterative attacks have been discarded in this action economy. Instead, any character can make multiple attacks during her turn simply by taking multiple actions to do so.
+
+### Overview
 To illustrate this system, we start at the initiative check and go though the turns and rounds of an encounter.
-Initiative
+#### Initiative
 At the start of combat, each participant rolls an initiative check as normal. Characters are flat-footed before they act in either the surprise round or the first round of combat.
-Surprise Round
+#### Surprise Round
 When combat starts, if some but not all of the participants are aware of their opponents, a surprise round occurs before the first round of combat. Those who are aware can commit up to 2 acts during the surprise round, and gain a reaction when that round is over. If all combatants are aware of their opponents, skip the surprise round.
-Your Turn
+#### Your Turn
 When your turn comes up in the initiative order, you can commit up to 3 acts. Sometimes, acts are committed discretely as simple actions, while other times 2 or more acts can be committed together as an advanced action. You can take these simple and advanced actions in any order you choose, except when the rules for individual actions state otherwise. You can also take a number of free actions your GM deems appropriate. Your turn ends once you have committed all 3 acts and any free actions you wish to take. Once your turn is over, you gain the ability to take one reaction before the start of your next turn. (Some abilities grant additional reactions; see the sidebar.)
 When your turn comes up in the initiative order, you can choose to delay instead. When you do, you can’t commit acts. You keep any reactions you haven’t used since your previous turn, but don’t gain any more. At any point after another combatant has taken its turn, you can choose to end your delay and reenter the initiative order. When you do so, your initiative changes to the point in the initiative order directly after the last acting creature’s turn.
-Others’ Turns
+#### Others’ Turns
 Reactions are like actions, but can be taken only when they are triggered, and only during other characters’ turns. Usually, reactions are triggered by actions taken by other combatants. For instance, the most common reaction you’ll likely take is the attack of opportunity: an attack you can make when a foe in your threatened area drops his guard (typically by moving, making a ranged attack, or attempting a complicated attack for which he lacks the proper training). Some reactions may provoke attacks of opportunity—the reaction’s subtype, if any, determines whether it provokes attacks of opportunity.
 Other times, something that happens to you might grant you the ability to take a reaction. Spells and abilities that are used as immediate actions in the default action economy are reactions in this system. For example, the spell feather fall is cast an immediate action in the default action economy—in this system, it’s a reaction.
-Converting Other Actions
-While the list of actions in this section is long and covers most of the major actions in the game, it’s not exhaustive.
-There are many actions that are not covered in these pages.
-The following are guidelines for converting such actions from the default action economy to this one.
-Free Actions Are Always Free Actions: A free action in the default action economy is a free action in this one. Free actions typically don’t have a subtype, and thus don’t provoke attacks of opportunity. Keep in mind that some free actions are used in conjunction with other actions—that’s still true in this system. To use such a free action, you must take the other action it supports.
-Swift Actions Are Always Simple Actions: A swift action in the default action economy is always a simple action in this system. You need commit only 1 act to take that action. In rare cases, a GM might want to limit a given swift action to only once per turn.
-Move Actions Are Always Simple Actions: A move action in the default action economy is always a simple action in this system.
-Standard-Action Attacks Are Typically Simple Actions: Most actions that involve an attack roll or a combat maneuver check as a standard action in the standard economy are simple actions in this system. For combat maneuvers that can’t be substituted for one attack in a full-attack action and other complicated attacks, consider making them attack actions that require further consecutive acts to complete. Look at combat maneuvers such as drag, grapple, and reposition for examples of such actions.
-Standard-Action Supernatural and Spell-Like Abilities Are Advanced Actions: Typically, these actions are advanced actions that require 2 acts. Supernatural abilities tend not to have a subtype (unless they involve movement or attacking, in which case it might be fitting to grant them those subtypes), and spell-like abilities typically have the complex subtype.
-Full-Round Actions Are Advanced Actions: Full-round actions are nearly always advanced actions that require a consecutive 3-act commitment. (See the charge advanced action for an example of one that doesn’t require 3 acts.)
-Action Types and Subtypes
+
+
+### Action Types and Subtypes
 This section describes the various actions in the game, their costs within this system, and new rules on how each one works. The sidebars throughout highlight exceptions and help you adjudicate situations that are not addressed directly in this section.
 There are a number of different simple actions, free actions, and advanced actions you can take during your turn. Taking a simple action requires 1 act. Free actions don’t cost any acts; you just say you want to take them, though some must be taken alongside other simple or advanced actions. In addition, the GM may limit the number of free actions you’re allowed during your turn.
 Advanced actions are more complicated; you must commit 2 or more acts to perform them. Some advanced actions require more acts than you can possibly commit during a single turn. In this case, you must continue committing acts toward that advanced action over multiple turns until the advanced action is complete. To take most advanced actions, you must commit all of their requisite acts consecutively. If you stop committing acts toward such an advanced action, it never comes to completion, and it must be started all over again in order to have a chance of success. Other advanced actions can be completed after committing the total requisite number of acts, which can be split up over time. In both cases, any roll attempted to determine whether an advanced action is successful is attempted after the appropriate number of acts are committed to that advanced action by the creature committing the final act. If an advanced action doesn’t say whether it requires consecutive or nonconsecutive acts, all its acts must be consecutive.
@@ -144,3 +137,13 @@ Make an Attack of Opportunity: When a foe you threaten provokes an attack of opp
 Spend a Use of an Attack of Opportunity: If an ability you possess allows you to spend a use of an attack of opportunity to perform some other action in the default action economy, that action is a reaction in this system.
 Use an Immediate-Action Ability: You can use an ability that can be used as an immediate action in the default action economy, as long as any conditions to use that ability are met.
 
+## Converting Other Actions
+While the list of actions in this section is long and covers most of the major actions in the game, it’s not exhaustive.
+There are many actions that are not covered in these pages.
+The following are guidelines for converting such actions from the default action economy to this one.
+Free Actions Are Always Free Actions: A free action in the default action economy is a free action in this one. Free actions typically don’t have a subtype, and thus don’t provoke attacks of opportunity. Keep in mind that some free actions are used in conjunction with other actions—that’s still true in this system. To use such a free action, you must take the other action it supports.
+Swift Actions Are Always Simple Actions: A swift action in the default action economy is always a simple action in this system. You need commit only 1 act to take that action. In rare cases, a GM might want to limit a given swift action to only once per turn.
+Move Actions Are Always Simple Actions: A move action in the default action economy is always a simple action in this system.
+Standard-Action Attacks Are Typically Simple Actions: Most actions that involve an attack roll or a combat maneuver check as a standard action in the standard economy are simple actions in this system. For combat maneuvers that can’t be substituted for one attack in a full-attack action and other complicated attacks, consider making them attack actions that require further consecutive acts to complete. Look at combat maneuvers such as drag, grapple, and reposition for examples of such actions.
+Standard-Action Supernatural and Spell-Like Abilities Are Advanced Actions: Typically, these actions are advanced actions that require 2 acts. Supernatural abilities tend not to have a subtype (unless they involve movement or attacking, in which case it might be fitting to grant them those subtypes), and spell-like abilities typically have the complex subtype.
+Full-Round Actions Are Advanced Actions: Full-round actions are nearly always advanced actions that require a consecutive 3-act commitment. (See the charge advanced action for an example of one that doesn’t require 3 acts.)
