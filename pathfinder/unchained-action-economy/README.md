@@ -48,7 +48,7 @@ If you have the Greater Two-Weapon Fighting feat, you can make two attacks on ea
 
 The flurry of blows class feature works in a similar way. At 1st level, you can make an additional attack with a –2 penalty on your first attack simple action during a turn. At 8th level, you can make an additional attack on both your first and second attack simple actions during your turn. At 15th level, you can make an additional attack on each of your attack simple actions during your turn. You must, of course, take all the penalties associated with those attacks.
 
-Simple Actions
+## Simple Actions
 The following are some of the more common actions. To take any of them, you need to commit only 1 act (though some can be taken as free actions under special circumstances).
 
 **Aid Another**: You take the aid another action. This action has all of the subtypes of the action you aid.
@@ -124,7 +124,7 @@ The two benchmark abilities are the Combat Reflexes feat and the haste spell. Th
 
 **Haste**: When under the effects of haste, you gain 1 additional act each round, which can be used only to take an attack simple action. This doesn’t stack with any other effect that grants an increase in your number of acts per turn. If you have multiple effects that give you additional acts, you can pick only one such effect to benefit from each turn. You gain all the other benefits of the spell.
 
-Advanced Actions
+## Advanced Actions
 The following is a list of the main advanced actions in this system. The number of acts required to take each advanced action is listed in parentheses after the action’s subtype (if any).
 
 **Administer a Potion or Elixir, or Apply an Oil, to an Unconscious Creature (Complex; 3 Acts)**: You carefully administer a potion or elixir, or apply an oil, to an unconscious creature.
@@ -209,7 +209,7 @@ The following is a list of the main advanced actions in this system. The number 
 
 **Use a Touch Spell on up to Six Allies (Complex; 3 Acts)**: If you cast a spell that allows you to touch targets over multiple rounds, this action allows you to touch up to six willing creatures within your melee reach (not counting expanded reach from reach weapons).
 
-Free Actions
+## Free Actions
 Unless stated otherwise in the action’s description, a free action can be taken only on your turn. Theoretically, you can take as many free actions in a turn as you wish, though the GM may apply reasonable limitations on free actions. For instance, although speaking is a free action, since a round is only 6 seconds in length, your GM might stop you from spouting off a long diatribe during your turn (or between turns), and may even rule that if you are casting a rather complex spell with a verbal component, you aren’t able to verbally warn your companions of some danger that you notice before they do. Typically, this limitation shouldn’t be applied to reloading ranged weapons as a free action.
 
 Sometimes a free action stipulates that you can take it only in conjunction with another action, or at a certain time during your turn. In these cases, you must take any requisite actions before you can take the free action.
@@ -238,7 +238,7 @@ The following are the main free actions of this system.
 
 **Use a Free-Action Ability**: You use an ability that can be used as a free action in the default action economy. If the ability must be used as part of another action, you must take that action before taking this free action.
 
-Reactions
+## Reactions
 The following are the main reactions of this system.
 
 **Complete a Readied Action (Varies)**: When you have readied an action or advanced action, when the trigger you designate occurs, you can take that action. Unlike in the default action economy, your place in the initiative order does not change. This reaction’s subtype is the same as the readied action’s subtype.
